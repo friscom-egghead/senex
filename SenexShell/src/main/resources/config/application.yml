@@ -1,0 +1,8 @@
+spring:
+  profiles.active: default
+---
+spring:
+  profiles: default
+
+shell: 
+    consoleOutputEnabled: true
